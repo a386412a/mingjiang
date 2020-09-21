@@ -30,6 +30,7 @@ import com.test.springdata.service.PersionService;
 /**
  * @author tian
  这真的是个测试
+ eclipse测试
  */
 @RestController
 @RequestMapping("/test")
