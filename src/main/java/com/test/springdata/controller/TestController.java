@@ -29,8 +29,13 @@ import com.test.springdata.service.PersionService;
 
 /**
  * @author tian
+<<<<<<< HEAD
  * 这真的是个测试
  * 暗示的撒好的话撒谎的撒谎的挥洒
+=======
+ 这真的是个测试
+ eclipse测试
+>>>>>>> 75a21cf501f7c8b0379767d992fab13162056861
  */
 @RestController
 @RequestMapping("/test")
