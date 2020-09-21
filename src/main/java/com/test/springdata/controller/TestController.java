@@ -46,6 +46,7 @@ public class TestController {
 	@Autowired
 	private PersionService persionService;
 
+	// 测试方法
 	@GetMapping("/hellow")
 	public String test(String lastName) {
 		Persion aa = persionRepsotory.getByLastName(lastName);
